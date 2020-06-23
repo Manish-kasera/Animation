@@ -25,7 +25,7 @@
  right:0;
  z-index:1;
  background-repeat:repeat-x;
- animation:highway 15s linear infinite;
+ animation:highway 5s linear infinite;
 }
 
 @keyframes highway {
